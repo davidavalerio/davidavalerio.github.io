@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://username.github.io"
+url: "https://davidavalerio.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -24,6 +24,7 @@ description: Earth system science, unironic anarchism, and random books.
 # List of links in the navigation bar
 navbar-links:
   Start Here: "starthere"
+  Blog: "blog"
   Research: "research"
   Books: "books"
 
@@ -39,10 +40,10 @@ avatar: "/img/square_profile.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#E6FFF2"
+navbar-col: "006400"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "	#006400"
+page-col: "#E6FFF2"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
