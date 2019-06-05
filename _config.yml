@@ -23,7 +23,7 @@ description: Earth system science, unironic anarchism, and random books.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Start Here: "aboutme"
   Research: "research"
   Books: "books"
 
