@@ -24,7 +24,7 @@ description: The personal wesbite of David Valerio, anarchist geochemist extraor
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Research: "research
+  Research: "research"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
