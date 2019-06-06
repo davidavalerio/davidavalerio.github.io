@@ -4,9 +4,9 @@ title: My AGU 2017 Experience
 tags: [AGU, geology, science]
 ---
 
-![Me smiling for a picture to please my mom.](/img/poster_picture.jpg)
-
 Last week I had the opportunity to attend the American Geophysical Union’s 2017 Fall Meeting in New Orleans, Louisiana to present research I have been conducting under Dr. [Denise Kulhanek](https://iodp.tamu.edu/staffdir/indiv/kulhanek/) of Texas A&M University/The International Ocean Discovery Program. I want to share some of my thoughts about the meeting, as it was my first scientific conference and it gave me a lot to think about.
+
+![Me smiling for a picture to please my mom.](/img/poster_picture.jpg)
 
 The [American Geophysical Union](https://sites.agu.org/) is the largest Earth and space science organization in the world with over 60,000 members from 137 countries. This past meeting had, last I heard,something like 27,000 attendees. Attendees came from all points in their academic careers, including undergraduate students, graduate students, post-docs, professors, and research scientists. The attendees work for universities, national laboratories, federal government, industry as well as other entities. The breadth of scientific experience at the meeting was amazing, and it was invigorating to connect with so many brilliant scientists.
 
