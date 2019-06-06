@@ -39,13 +39,13 @@ avatar: "/img/square_profile.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#8DB14E"
+navbar-col: "#609F60"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#E8EFDC"
+page-col: "#DFECDF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#8DB14E"
+footer-col: "#609F60"
 footer-text-col: "#404040"
 footer-link-col: "#404040"
 
