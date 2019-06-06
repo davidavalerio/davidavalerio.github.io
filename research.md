@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: What I do
+subtitle: What I do for fun (and make money).
 ---
 
 ![Map of primary productivity](/img/F2.large.jpg)

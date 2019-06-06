@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Books
+subtitle: These are some of my favorite books:
 ---
-
-These are some of my favorite books. I will add more as they come to mind.
 
 Antifragile – Nicholas Nassim Taleb
 
