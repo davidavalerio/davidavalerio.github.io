@@ -12,7 +12,7 @@ Besides doing research, I read books, lift weights, go to punk shows, and evange
 
 Follow me on [Twitter](https://twitter.com/davidavalerio). Do it.
 
-Boring facts:
+**Boring facts**:
 
 Houston native.
 
