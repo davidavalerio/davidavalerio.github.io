@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-subtitle: These are some of my favorite books:
+subtitle: These are some of my favorite books!
 ---
 
 Antifragile – Nicholas Nassim Taleb
