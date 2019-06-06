@@ -4,7 +4,7 @@ title: My AGU 2017 Experience
 tags: [AGU, geology, science]
 ---
 
-![Me smiling for a picture to please my mom.](/img/poster_picture)
+![Me smiling for a picture to please my mom.](/img/poster_picture.jpg)
 
 Last week I had the opportunity to attend the American Geophysical Union’s 2017 Fall Meeting in New Orleans, Louisiana to present research I have been conducting under Dr. [Denise Kulhanek](https://iodp.tamu.edu/staffdir/indiv/kulhanek/) of Texas A&M University/The International Ocean Discovery Program. I want to share some of my thoughts about the meeting, as it was my first scientific conference and it gave me a lot to think about.
 
