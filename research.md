@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-![Map of primary productivity](/img/f2.large.jpg)
+![Map of primary productivity](/img/F2.large.jpg)
 
 Primary productivity is defined as the rate at which photosynthetic organisms produce organic compounds in an ecosystem. Primary production of organic compounds by photosynthetic algae and cyanobacteria in the ocean provide the fundamental building blocks of marine ecosystems, from zooplankton all the way up to fish and mammals. Primary productivity in the ocean also photosynthetically produces more than half of the oxygen in the atmosphere, making it an important source of the oxygen life needs to survive. Understanding how primary productivity is distributed spatially and temporally in the ocean is important when characterizing global biogeochemical cycles and climate. Marine primary productivity is also a major sink for fossil fuel carbon emissions and is dramatically affected by other human activities, so better constraining the magnitude and distribution of primary productivity in the ocean today is important to when trying to understand how human actions will affect health of marine ecosystems in the future.
 
