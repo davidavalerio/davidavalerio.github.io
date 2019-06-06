@@ -10,7 +10,7 @@ Research-wise, I am interested in developing new clumped isotope tracers to help
 
 Besides doing research, I read books, lift weights, go to punk shows, and evangelize for the greatest city in the world, Houston, Texas. I especially enjoy reading history, biography, philosophical novels, and science fiction, but really I read whatever interests me at the moment. I also blog when the mood strikes me.
 
-Follow me on twitter [@davidvalerio](https://twitter.com/davidavalerio).
+Follow me on [Twitter](https://twitter.com/davidavalerio). Do it.
 
 Boring facts:
 
