@@ -1,7 +1,6 @@
 ---
-type: page
+type: pdf
 title: CV
-subtitle: What I've done.
 ---
 
-<object data="davidavalerio.github.io/Valerio_Personal_CV_2019.pdf" width="1000" height="1000" type='application/pdf'/>
+<iframe src="https://drive.google.com/file/d/1bu61gVgI_YK7FX5gUYhTTd5ST7GWkMze/preview" width="100%" height="100%"></iframe>
