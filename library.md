@@ -23,3 +23,5 @@ subtitle: These are some of my favorite books!
 **The Timeless Way of Building** – Christopher Alexander
 
 **Annals of the Former World** – John McPhee
+
+**Whole Earth Discipline** - Steward Brand
