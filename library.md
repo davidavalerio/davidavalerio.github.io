@@ -25,3 +25,7 @@ subtitle: These are some of my favorite books!
 **Annals of the Former World** – John McPhee
 
 **Whole Earth Discipline** - Steward Brand
+
+**1491** - Charles. C. Mann
+
+**The Dream Machine** - Waldrop M. Mitchell
