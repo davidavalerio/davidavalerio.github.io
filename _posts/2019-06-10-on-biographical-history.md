@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: On Biographical History
+bigimg: /img/austerlitz.jpg
 date: '2019-06-10'
 tags: [biography, history, education]
 ---
