@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Anarchism as Creative Destruction
+bigimg: img/fighting_falcon.jpg
 tags: [anarchism, society]
 ---
 Anarchism is a political philosophy that gets a bad rap. When most people hear the word “anarchism”, the first thing that comes to mind is a bomb exploding in a crowded square, or a bullet in the chest of a US president. Revolutionary anarchism was and is a thing, but I think the portrayal of anarchist thought as being centered around destruction and chaos is naive. Anarchism at its core shifts political discussion from being anchored on the left vs. right divide to being predicated on the dichotomy between centralization and decentralization of power. It is in this polarity between centralization and decentralization that I find anarchism to be an effective lens to view the world through. 
 
 I recently read [Boyd: The Fighter Pilot Who Changed the Art of War](https://www.amazon.com/Boyd-Fighter-Pilot-Who-Changed/dp/0316796883), a wonderful biography of John Boyd, a US fighter pilot and possibly the most influential military strategist since Sun Tzu. One of Boyd’s few writings is Destruction and Creation, a 1976 paper outlining Boyd’s views on how humans create models of the world and how these models in turn change our perception the world. As I read and reflected on it, I sensed many connections between his theory and my thoughts on anarchism. With this in mind, I will try to explain those connections. I highly recommend reading this paper at least once before starting this blog post, it is extremely thought provoking and will give you context for my thoughts. 
-
-![The F-16 Fighting Falcon: John Boyd played a key role in designing this aircraft](/img/fighting_falcon.jpg)
 
 Two key components in Boyd’s theory are those of destructive deduction and creative induction. Destructive deduction involves the breaking of concepts, or models of the world, into their empirical constituents, the observations, intuitions, and perceptions that we see everyday. Creative induction is the assembly of these now separate empirical constituents into new concepts, or models of the world, that better explain our ever changing environment. The driving force behind this cycle of destruction and creation is the constant feedback provided by our environment, which lets us know how well or how poorly our model of the world matches the world as it actually. This feedback leads to the modification of our models, which in turn leads to different observations shaped by the model. These new observations then lead to the creation of new models, which in turn shape new perception and so on. This process of creation and destruction never stops, and forms the core of Boyd’s thesis. 
 
