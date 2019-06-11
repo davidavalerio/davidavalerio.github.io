@@ -48,7 +48,7 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 40px;
+  padding-top: 80px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -433,7 +433,7 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 80px 0 10px;
   position: relative;
 }
 .intro-header.big-img {
