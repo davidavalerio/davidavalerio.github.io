@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Geologic Perspective
+bigimg: /img/arches.jpg
 tags: [geology, science, time]
 ---
 
