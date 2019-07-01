@@ -23,8 +23,8 @@ description: Earth system science, unironic anarchism, and random books.
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "research"
   Blog: "blog"
+  Research: "research"
   Library: "library"
 
 # Image to show in the navigation bar - image must be a square (width = height)
