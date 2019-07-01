@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-#title: David Valerio
+title: David Valerio
 
 # Short description of your site
-#description: Earth system science, unironic anarchism, and random books.
+description: Earth system science, unironic anarchism, and random books.
 
 # --- Navigation bar options --- #
 
