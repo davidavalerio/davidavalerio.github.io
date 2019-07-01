@@ -25,4 +25,4 @@ Favorite writer: Ursula K. Le Guin
 
 Favorite band: The Strokes
 
-Favorite book: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680).
+Favorite book: Antifragile.
