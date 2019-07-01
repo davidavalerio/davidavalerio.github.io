@@ -2,6 +2,7 @@
 layout: page
 title: Ph.D. Student
 subtitle: Stable Isotope Geochemistry
+use-site-title: true
 bigimg: /img/utah.jpg
 ---
 
