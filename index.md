@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Start Here
-subtitle: Stuff about me!
+title: Ph.D. Student
+subtitle: Stable Isotope Geochemistry
 ---
 
 Howdy! I’m David Valerio, a first-year Ph.D student in the [Department of Earth, Environmental, and Planetary Sciences](https://earthscience.rice.edu/) at [Rice University](https://www.rice.edu/) working in Dr. Laurence Yeung’s [research group](https://www.yeunglab.org/).
