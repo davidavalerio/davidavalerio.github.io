@@ -24,6 +24,8 @@ Graduate of Texas A&M University.
 
 Favorite writer: Ursula K. Le Guin
 
+Favorite philosopher: Leo Tolstoy
+
 Favorite band: The Strokes
 
 Favorite nonfiction: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
