@@ -26,4 +26,6 @@ Favorite writer: Ursula K. Le Guin
 
 Favorite band: The Strokes
 
-Favorite book: Antifragile.
+Favorite nonfiction: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+
+Favorite fiction: [The Dispossessed](https://www.amazon.com/Dispossessed-Hainish-Cycle-Ursula-Guin/dp/0061054887)
