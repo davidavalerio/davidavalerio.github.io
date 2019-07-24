@@ -6,7 +6,7 @@ subtitle: These are some of my favorite books!
 
 [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) – Nicholas Nassim Taleb
 
-[The Gospel According to Matthew](https://www.amazon.com/Douay-Rheims-Bible-Black-Genuine-Leather/dp/1935302035/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=K96APW5RECNCB3D4AVHR)
+[The Gospel According to Matthew](https://www.amazon.com/Douay-Rheims-Bible-Black-Genuine-Leather/dp/1935302035/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=K96APW5RECNCB3D4AVHR) - St. Matthew
 
 [Seeing Like a State](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153) – James C. Scott
 
