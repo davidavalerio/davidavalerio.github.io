@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Deutsch Tejas
+bigimg: /img/BigBend.jpg
 ---
 Over the past two months I had the opportunity to show my friend Lea, an intern from Germany working in my department at Rice, around my hometown, Houston, Texas. The best part about taking her around town was getting to see my home through the eyes of someone with literally no preconceptions about it. I've lived in Houston for all of my life other than my three years at Texas A&M. I love my hometown like nowhere else in the world. I have taken visitors from out of town around Houston before, but all of them were Americans and had at least an opinion of Texas, if not Houston itself. Luckily, Lea was in town for a good three months, so I was able to take her to a lot of my favorite places around town.
 
