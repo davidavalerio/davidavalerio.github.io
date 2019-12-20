@@ -4,7 +4,6 @@ title: Research
 subtitle: What I do for fun (and to make money).
 published: true
 ---
-**Plain Language Summary**
 
 My research is focused on using the oxygen isotope composition of surface ocean waters to estimate rates of marine photosynthesis/carbon fixation. Photosynthetic organisms use inorganic carbon, water, and sunlight to produce simple organic compounds and oxygen. Understanding how photosynthesis is quantitatively distributed throughout the world ocean is important when trying to understand how the global carbon and oxygen cycles work. Oxygen has three isotopes, <sup>16</sup>O, <sup>17</sup>O, and <sup>18</sup>O. Isotopes of elements have the same number of protons (atomic number), but different numbers of neutrons (atomic mass). The way that elements interact chemically is determine by their atomic number, but differences in the numbers of protons (and thus mass) lead to slight different in the rates that different isotopes interact in chemical systems. This allows ratios of the various oxygen stable isotopes to be used as tracers of Earth system processes by comparing ratios of oxygen isotopes in different earth materials. By comparing the distinct oxygen isotope signatures of atmospheric air vs that produced by photosynthesis in marine surface waters, we can determine rates of photosynthesis throughout the world ocean, which helps us constrain where oxygen is being produced globally. 
 
