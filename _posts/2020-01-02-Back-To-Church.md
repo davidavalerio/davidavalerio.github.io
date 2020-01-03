@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: Coming Back to the Church
+bigimg: /img/sacredheart.jpg
+tags : [religion]
+published: true
 ---
 Both my mom and dad were raised as Catholics. They met in a [Catholic Charismatic](https://en.wikipedia.org/wiki/Catholic_Charismatic_Renewal) church group, so when I was born I was promptly baptized into the Church and taken along to Mass. Eventually my parents became fed up with the disapproving glances cast their way by fellow parishioners, apparently babies were expected to be kept in the quieting room so that their cries would not disturb the Mass. So they decided to leave the Church.
 
