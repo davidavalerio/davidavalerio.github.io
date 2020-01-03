@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coming Back to the Church
-bigimg: /img/sagrada.jpg
+bigimg: /img/sagrada-familia.jpg
 tags:
   - religion
 published: true
