@@ -16,6 +16,8 @@ Follow me on [Twitter](https://twitter.com/davidavalerio).
 
 You can email me at [valerio@rice.edu](valerio@rice.edu) for research stuff or at [david.a.valerio@gmail.com](david.a.valerio@gmail.com) for anything else.
 
+I have a [Google Scholar](http://davidavalerio.com/).
+
 **Boring facts**:
 
 Houston native.
