@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: On Plagues and Hurricanes
+bigimg:
+tags: [hurricanes, plagues]
+published: true
 ---
 Hurricanes are eminently physical. You can literally feel the air change as they get closer. Typically the few days before a hurricane hits are extremely hot. The clouds turn a strange orange color. Then, the first fronts of the storm come. It starts to rain, constantly. In the beginning the rain is like a normal thunderstorm, albeit a bit more windy. You can here an occasional clap of thunder, but nothing crazy. As the hurricane continues to push its way on shore, the winds pick up and the rain comes down in a deluge. If the hurricane comes directly for you, the winds become so strong that they crack trees in half, rip rooftops off of buildings, obliterate traffic signs, and shatter any windows that aren't boarded over. The winds become so powerful that you can hear their passing, as they shake the building you're in. An eery whistling fills your ears. Throughout this time you are (hopefully) hunkered down in your house or apartment, far away from windows, and all you have to do is wait. Typically, the storm will blow though in around a day, at which point you leave your apartment, survey the damage, and try to reconstruct all that has been destroyed.
 
