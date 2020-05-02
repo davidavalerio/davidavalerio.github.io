@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Plagues and Hurricanes
-bigimg:
+bigimg: /img/hurricane.jpg
 tags: [hurricanes, plagues]
 published: true
 ---
