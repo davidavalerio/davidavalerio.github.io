@@ -1,4 +1,7 @@
 ---
+layout: post
+title: Coronatine Walking
+bigimg: /img/htownskyline.jpg
 published: false
 ---
 I love walking. I live in downtown Houston, which is one of the few places in this car dominated city where you can conceivably walk to get everything you need. The street grid is city blocks are short and the streets are one way,  so I can ramble around wherever I want while avoiding cars pretty easily.
