@@ -1,16 +1,35 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Ph.D. Student
+subtitle: Stable Isotope Geochemistry
+use-site-title: true
+bigimg: /img/ocean.jpg
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Howdy! I’m David Valerio, a second-year Ph.D. student in the [Department of Earth, Environmental, and Planetary Sciences](https://earthscience.rice.edu/) at [Rice University](https://www.rice.edu/) working in Dr. Laurence Yeung’s [research group](https://www.yeunglab.org/).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm interested in developing novel dissolved gas tracers to help understand biogeochemical cycling in the past and present ocean. I am currently developing novel clumped isotope proxies to improve our understanding of microbial processes in the surface and deep ocean. After completing my Ph.D., I'd like to move into the startup world to work at the interface between microbiology, stable isotope geochemistry, and oceanography in order to help solve some of the most important problems facing the world ocean today. 
 
-What else do you need?
+Besides doing research, I read books, lift weights, go to concerts, and evangelize for the greatest city in the world, Houston, Texas. I enjoy reading history, biography, science fiction and philosophical novels. I also blog when I feel like it.
 
-### my history
+Follow me on [Twitter](https://twitter.com/davidavalerio).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have a [Google Scholar](https://scholar.google.com/citations?user=_GPPg8wAAAAJ&hl=en).
+
+You can contact me at [valerio@rice.edu](valerio@rice.edu) to discuss stuff related to my research or at [david.a.valerio@gmail.com](david.a.valerio@gmail.com) for anything else.
+
+**Boring facts**:
+
+Houston native.
+
+Graduate of Texas A&M University.
+
+Favorite writer: Ursula K. Le Guin
+
+Favorite philosopher: Leo Tolstoy
+
+Favorite band: The Strokes
+
+Favorite fiction: [The Dispossessed](https://www.amazon.com/Dispossessed-Hainish-Cycle-Ursula-Guin/dp/0061054887)
+
+Favorite nonfiction: [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
