@@ -17,13 +17,12 @@ baseurl: ""
 title: David Valerio
 
 # Short description of your site
-description: Earth system science, unironic anarchism, and random books.
+description: Future Tlahtoāni of Texas.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Thoughts: "thoughts"
   About Me: "aboutme"
   Library: "library"
 
