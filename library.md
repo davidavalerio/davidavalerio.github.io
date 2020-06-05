@@ -2,30 +2,27 @@
 layout: page
 title: Library
 subtitle: These are some of my favorite books!
+/img/babel.jpg
 ---
 
-[Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) – Nassim Nicholas Taleb
+[Antifragile](https://bookshop.org/books/antifragile-things-that-gain-from-disorder-9780812979688/9780812979688) – Nassim Nicholas Taleb
 
-[The Gospel According to Matthew](https://www.amazon.com/Douay-Rheims-Bible-Black-Genuine-Leather/dp/1935302035/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=K96APW5RECNCB3D4AVHR) - St. Matthew
+[The Gospel According to Matthew](https://bookshop.org/books/catholic-bible-oe-douay-rheims/9781935302025) - St. Matthew
 
-[Seeing Like a State](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153) – James C. Scott
+[Seeing Like a State](https://bookshop.org/books/seeing-like-a-state-how-certain-schemes-to-improve-the-human-condition-have-failed/9780300246759) – James C. Scott
 
-[The Dispossessed](https://www.amazon.com/Dispossessed-Hainish-Cycle-Ursula-Guin/dp/0061054887) – Ursula K. LeGuin
+[The Dispossessed](https://bookshop.org/books/the-dispossessed-9780060512750/9780061054884) – Ursula K. LeGuin
 
-[The Structure of Scientific Revolutions](https://www.amazon.com/Structure-Scientific-Revolutions-Thomas-Kuhn/dp/0226458083)– Thomas Kuhn
+[My Religion - What I Believe](https://bookshop.org/books/my-religion-what-i-believe-9781907355233/9781907355233) – Leo Tolstoy
 
-[The Kingdom of God is Within You](https://www.amazon.com/Kingdom-God-within-You/dp/0803294042) – Leo Tolstoy
-
-[The Power Broker](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245) – Robert A. Caro
+[The Power Broker](https://bookshop.org/books/the-power-broker-robert-moses-and-the-fall-of-new-york/9780394720241) – Robert A. Caro
 
 [Eumeswil](https://www.amazon.com/Eumeswil-Ernst-J%C3%BCnger/dp/0914386522) – Ernst Jünger
 
-[The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028) – Christopher Alexander
+[The Timeless Way of Building](https://bookshop.org/books/the-timeless-way-of-building/9780195024029) – Christopher Alexander
 
-[Napoleon the Great](https://www.amazon.com/Napoleon-Great-Andrew-Roberts/dp/0141032014) - Andrew Roberts
+[Annals of the Former World](https://bookshop.org/books/annals-of-the-former-world/9780374518738) – John McPhee
 
-[Annals of the Former World](https://www.amazon.com/Annals-Former-World-John-McPhee/dp/0374518734) – John McPhee
+[Whole Earth Discipline](https://bookshop.org/books/whole-earth-discipline-why-dense-cities-nuclear-power-transgenic-crops-restored-wildlands-and-geoengineering-are-necessary/9780143118282) - Steward Brand
 
-[Whole Earth Discipline](https://www.amazon.com/Whole-Earth-Discipline-Transgenic-Geoengineering/dp/0143118285) - Steward Brand
-
-[The Dream Machine](https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=HM7DAGQ5VHY03SHGTSQ0) - Waldrop M. Mitchell
+[Demanding the Impossible](https://bookshop.org/books/demanding-the-impossible-a-history-of-anarchism/9781604860641) - Peter Marshall
