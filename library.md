@@ -2,7 +2,7 @@
 layout: page
 title: Library
 subtitle: These are some of my favorite books!
-/img/babel.jpg
+bigimg: /img/babel.jpg
 ---
 
 [Antifragile](https://bookshop.org/books/antifragile-things-that-gain-from-disorder-9780812979688/9780812979688) – Nassim Nicholas Taleb
