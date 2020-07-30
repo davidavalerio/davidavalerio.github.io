@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Beyond Sustainability and Towards Antifragility
 bigimg: /img/life.jpg
 ---
