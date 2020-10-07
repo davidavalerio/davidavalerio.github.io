@@ -6,11 +6,11 @@ use-site-title: true
 bigimg: /img/ocean.jpg
 ---
 
-.I’m David Valerio/ I'm a second-year Ph.D. student at [Rice University](https://www.rice.edu/) in Dr. Laurence Yeung’s [research group](https://www.yeunglab.org/) where I study marine biogeochemistry.
+Hello! I’m David Valerio a second-year Ph.D. student at [Rice University](https://www.rice.edu/) studying marine biogeochemistry in Laurence Yeung’s [research group](https://www.yeunglab.org/).
 
-I develop and apply novel isotopic proxies of dissolved oxygen (O2) and nitrogen (N2) in natural waters to quantify photosynthesis and denitrification in marine settings. To do this, I use ultra-high precision, triple isotope and "clumped isotope" measurements of naturally occurring dissolved O2 and N2 to create mass balances that quantify the rate and amount of biologically produced O2 and N2. The overarching goal of this research is to improve our quantitative understanding of global and regional biogeochemical cycles. After completing my Ph.D., I'd like to move into the startup world to work at the interface between microbiology, stable isotope geochemistry, and chemical oceanography to help solve some of the most important problems facing the world ocean today. 
+I use novel isotopic proxies of dissolved oxygen (O2) and nitrogen (N2) in natural waters to quantify photosynthesis and denitrification in marine settings. I use ultra-high precision, triple isotope and "clumped isotope" measurements of naturally occurring dissolved O2 and N2 to create mass balances that quantify the rate and amount of biologically produced O2 and N2. After completing my Ph.D., I'd like to move into the startup world to work at the interface between stable isotope geochemistry, chemical oceanography, and big data to help address the impacts of climate change on the global ocean. 
 
-Besides doing research, I read books, lift weights, go to concerts, and evangelize for the greatest city in the world, Houston, Texas. I enjoy reading history, biography, science fiction and philosophical novels. I also blog when I feel like it.
+Besides doing research, I read books, lift weights (pre-corona), go to concerts (also pre-corona), and evangelize for the greatest city in the world, Houston, Texas. I enjoy reading history, biography, science fiction and philosophical novels. I also blog when I feel like it.
 
 Follow me on [Twitter](https://twitter.com/davidavalerio).
 
