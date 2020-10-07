@@ -26,3 +26,5 @@ bigimg: /img/babel.jpg
 [Whole Earth Discipline](https://bookshop.org/books/whole-earth-discipline-why-dense-cities-nuclear-power-transgenic-crops-restored-wildlands-and-geoengineering-are-necessary/9780143118282) - Steward Brand
 
 [Demanding the Impossible](https://bookshop.org/books/demanding-the-impossible-a-history-of-anarchism/9781604860641) - Peter Marshall
+
+[The Rise of Theodore Roosevelt](https://bookshop.org/books/the-rise-of-theodore-roosevelt/9780375756788?aid=138) - Edmund Morris
