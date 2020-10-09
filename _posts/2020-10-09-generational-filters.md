@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Generational Filters
-bigimg:/img/caesar.jpg
+bigimg: /img/caesar.jpg
 ---
 
 “Hard times create strong men. Strong men create good times. Good times create weak men. And, weak men create hard times.” - G. Michael Hopf
