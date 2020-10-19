@@ -6,13 +6,13 @@ use-site-title: true
 bigimg: /img/ocean.jpg
 ---
 
-Hello! I’m David Valerio a second-year Ph.D. student at [Rice University](https://www.rice.edu/) studying marine biogeochemistry in Laurence Yeung’s [research group](https://www.yeunglab.org/).
+Hello! I’m [David Valerio](https://twitter.com/davidavalerio) a second-year Ph.D. student at [Rice University](https://www.rice.edu/) studying marine biogeochemistry.
 
 I use novel isotopic proxies of dissolved oxygen (O2) and nitrogen (N2) in natural waters to quantify photosynthesis and denitrification in marine settings. I use ultra-high precision, triple isotope and "clumped isotope" measurements of naturally occurring dissolved O2 and N2 to create mass balances that quantify the rate and amount of biologically produced O2 and N2. After completing my Ph.D., I'd like to move into the startup world to work at the interface between stable isotope geochemistry, chemical oceanography, and big data to help address the impacts of climate change on the global ocean. 
 
-Besides doing research, I read books, lift weights (pre-corona), go to concerts (also pre-corona), and evangelize for the greatest city in the world, Houston, Texas. I enjoy reading history, biography, science fiction and philosophical novels. I also blog when I feel like it.
+Besides doing research, I read books, lift weights, go to concerts (also pre-corona), and evangelize for the greatest city in the world, Houston, Texas. I enjoy reading history, biography, science fiction and philosophical novels. I also blog when I feel like it.
 
-Follow me on [Twitter](https://twitter.com/davidavalerio).
+You can have my incoherent thoughts shot into your mailbox by signing up for my [Substack](https://valerio.substack.com/).
 
 I have a [Google Scholar](https://scholar.google.com/citations?user=_GPPg8wAAAAJ&hl=en).
 
