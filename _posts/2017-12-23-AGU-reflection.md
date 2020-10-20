@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My AGU 2017 Experience
+subtitle: Joining the scientific community.
 bigimg: /img/meeting_hall.jpg
 tags: [AGU, geology, science]
 ---
