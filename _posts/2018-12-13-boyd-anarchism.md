@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Anarchism as Creative Destruction
+subtitle: On the call of decentralization.
 bigimg: /img/fighting_falcon.jpg
 tags: [anarchism, society]
 ---
