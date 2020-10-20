@@ -1,11 +1,12 @@
 ---
 layout: post
 published: true
+subtitle: The passage of time as nature's winnowing fork.
 title: Generational Filters
 bigimg: /img/caesar.jpg
 ---
 
-“Hard times create strong men. Strong men create good times. Good times create weak men. And, weak men create hard times.” - G. Michael Hopf
+> “Hard times create strong men. Strong men create good times. Good times create weak men. And, weak men create hard times.” - G. Michael Hopf
 
 2020 has been a rough year. We all know the details, or some version of the details, so I won't go through what we've all experienced. What I do want to talk about is the role of filtering in creating the idea of distinct human generations (i.e. Baby Boomer, Gen X, Millennial, Gen Z etc.), and how this mechanism will shape future perceptions of those of us living through these interesting times.
 
