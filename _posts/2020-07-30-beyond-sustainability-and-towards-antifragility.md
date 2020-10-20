@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Beyond Sustainability and Towards Antifragility
+subtitle: The flaws of naive nature conservation.
 bigimg: /img/life.jpg
 ---
 Sustainability isn't sustainable. It implies that the goal of environmental work is to insure a balance between human greed and the health of the biosphere that is similar to the present, only extended indefinitely into the future. The current status quo is unbearable. Sustainable design optimizes human systems to have as small of an impact on the surrounding environment as possible. This approach to re-designing institutions ignores that human systems are and will be deeply embedded in natural systems for the foreseeable future. We humans must learn to __participate__ in and __thrive__ with nature, rather than merely tolerate it. We won't be long for this planet otherwise. 
