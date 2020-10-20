@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: What Would You Really Do?
+subtitle: On the question of means and ends.
 bigimg: /img/htownbrawl.jpg
 ---
 
