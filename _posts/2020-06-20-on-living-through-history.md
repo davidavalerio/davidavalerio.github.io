@@ -2,10 +2,10 @@
 layout: post
 published: true
 title: On Living Through History
+subtitle: Reading history doesn't prepare you for living through it.
 bigimg: /img/htownriot.jpg
 date: '2020-06-20'
 ---
-Reading history doesn't prepare you for living it.
 
 COVID-19 has claimed the lives of [120,000 Americans](https://www.worldometers.info/coronavirus/country/us/) (probably an underestimate) since it arrived in the US in January. The murder of George Floyd by a cop last month sparked protests against racial injustice, along with riots, across the world. More than 40 million Americans are unemployed as the country enters the worst economic downturn since the Great Depression. Clashes between the Indian and Chinese Armies lead to [20 Indian deaths](https://www.cfr.org/in-brief/china-india-border-dispute-what-know). All of this has happened since the beginning of the year (7 months). Events are only accelerating accelerating.
 
