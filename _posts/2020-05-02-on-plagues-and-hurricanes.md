@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Plagues and Hurricanes
+subtitle: The invisible and the visible.
 bigimg: /img/hurricane.jpg
 tags: [hurricanes, plagues]
 published: true
