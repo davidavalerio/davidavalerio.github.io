@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coronatine Walking
+subtitle: Flaneuring in a post-apocalyptic Houston.
 bigimg: /img/htownskyline.jpg
 published: true
 ---
