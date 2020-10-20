@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deutsch Tejas
+subtitle: Germany <-> Texas
 bigimg: /img/BigBend.jpg
 tags: [Texas]
 ---
