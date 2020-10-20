@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Geologic Perspective
+subtitle: Observing the world on long timescales.
 bigimg: /img/arches.jpg
 tags: [geology, science, time]
 ---
