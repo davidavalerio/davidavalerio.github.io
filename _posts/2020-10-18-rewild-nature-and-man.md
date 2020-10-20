@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: To Rewild Nature, We Must Rewild Man
+subtitle: On the quest for ecological freedom.
 bigimg: /img/megafauna.jpg
 ---
 
