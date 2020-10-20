@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: On Biographical History
+subtitle: Or why individuals are more interesting than dates.
 bigimg: /img/austerlitz.jpg
 date: '2019-06-10'
 tags: [biography, history, education]
