@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Pod People
-subtitle: On the quest for ecological freedom.
+subtitle: Escape the cocoon.
 bigimg: /img/pod.jpg
 ---
 
