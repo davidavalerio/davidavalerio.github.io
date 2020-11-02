@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Revolutionary Roots
-subtitle: On the American experience.
+subtitle: On coming to America.
 bigimg: /img/mexrev.jpg
 ---
 
