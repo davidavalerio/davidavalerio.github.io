@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ph.D. Student
+title: Master's Student
 subtitle: Stable Isotope Geochemistry
 use-site-title: true
 bigimg: /img/ocean.jpg
