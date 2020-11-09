@@ -2,8 +2,8 @@
 layout: post
 published: false
 title: Green Energy Isn't Green
-subtitle: On coming to America.
-bigimg: /img/mexrev.jpg
+subtitle: Something more radical must be done.
+bigimg: /img/wind.jpg
 ---
 "Enter ye in at the narrow gate: for wide is the gate, and broad is the way that leadeth to destruction, and many there are who go in thereat. How narrow is the gate, and strait is the way that leadeth to life: and few there are that find it!" Matthew 7:13-14 
 
