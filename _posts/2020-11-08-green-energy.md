@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Green Energy Isn't Green
 subtitle: Something more radical must be done.
 bigimg: /img/wind.jpg
