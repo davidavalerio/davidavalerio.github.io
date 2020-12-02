@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Master's Student
+title: Masters Student
 subtitle: Stable Isotope Geochemistry
 use-site-title: true
 bigimg: /img/ocean.jpg
 ---
 
-Hello! I’m [David Valerio](https://twitter.com/davidavalerio) a master's student at [Rice University](https://www.rice.edu/) studying marine biogeochemistry.
+Hello! I’m [David Valerio](https://twitter.com/davidavalerio) a masters student at [Rice University](https://www.rice.edu/) studying marine biogeochemistry.
 
 I am developing a computational model of the triple oxygen isotope composition of atmospheric oxygen to help advance the use of triple oxygen isotope measurements as a measure of global biological productivity. After finishing my degree, I'd like to move into the startup world to support rewilding efforts to that help drawdown carbon emissions and regenerate the biosphere. 
 
