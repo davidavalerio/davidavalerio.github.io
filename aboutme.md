@@ -24,11 +24,11 @@ Should you still use snail mail my e-mail address is david.a.valerio@gmail.com.
 
 Houston native.
 
-Most important fiction writer: Ursula K. Le Guin
+Favorite fiction writer: Ursula K. Le Guin
 
-Most important nonfiction writer: Nassim Nicholas Taleb
+Favorite nonfiction writer: Nassim Nicholas Taleb
 
-Most important philosopher: Leo Tolstoy
+Favorite philosopher: Leo Tolstoy
 
 Favorite band: The Strokes
 
