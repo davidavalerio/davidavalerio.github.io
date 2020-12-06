@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Ode to My Grandma
 subtitle: In Memoriam Isabel Diego 1938-2020
 bigimg: /img/varadero.jpg
