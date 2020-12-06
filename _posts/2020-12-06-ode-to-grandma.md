@@ -29,4 +29,4 @@ I feel her with me in spirit, and will carry her in my heart until the day that 
 
 >"And God shall wipe away all tears from their eyes: and death shall be no more, nor mourning, nor crying, nor sorrow shall be any more, for the former things are >passed away." Revelation 21:4
 
-[[/img/grandmame.jpg | My Grandma and me when I received my Aggie Ring a few years ago.]]
+![My Grandma and me when I received my Aggie Ring a few years ago.](/img/grandmame.jpg)
