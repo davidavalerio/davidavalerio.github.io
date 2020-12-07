@@ -5,7 +5,7 @@ title: Dispossessed Downtown
 subtitle: The homeless of Houston.
 bigimg: /img/homeless.jpg
 ---
->“But when thou makest a feast, call the poor, the maimed, the lame, and the blind; And thou shalt be blessed, because they have not wherewith to make thee >recompense: for recompense shall be made thee at the resurrection of the just.” Luke 14:13-14
+>“But when thou makest a feast, call the poor, the maimed, the lame, and the blind; And thou shalt be blessed, because they have not wherewith to make thee recompense: for recompense shall be made thee at the resurrection of the just.” Luke 14:13-14
 
 I've lived in downtown Houston for the past two years. It's one of the few parts of this city where its feasible to live a relatively car-free lifestyle and that affords easy access to serendipitous [Lindy Walks](https://paulskallas.substack.com/p/in-praise-of-the-lindy-walk), which is the main reason I like living here. Before the coronavirus, most of my walks involved getting high and marveling at everything I strode past. Post-coronatine, I began taking [three long walks a day](https://valerio.substack.com/p/2020-05-22-coronatine-walking) with my dog in tow to keep my sanity (somewhat). I interact with people in a way while walking that isn't possible in a car. You're in a little bubble while in a car, isolated from the outside world. The only interesting people that I come across while flaneuring are the homeless, who many do not bother to give the time of day.
 
