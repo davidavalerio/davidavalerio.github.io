@@ -6,8 +6,8 @@ subtitle: An ecological imperative.
 bigimg: /img/buffalobayou.jpg
 ---
 
->"Behold the birds of the air, for they neither sow, nor do they reap, nor gather into barns: and your heavenly Father feedeth them. Are not you of much more >value than they? And which of you by taking thought, can add to his stature by one cubit? And for raiment why are you solicitous? Consider the lilies of the >field, how they grow: they labour not, neither do they spin. But I say to you, that not even Solomon in all his glory was arrayed as one of these."
->Matthew 6:26-29
+>"Behold the birds of the air, for they neither sow, nor do they reap, nor gather into barns: and your heavenly Father feedeth them. Are not you of much more value than they? And which of you by taking thought, can add to his stature by one cubit? And for raiment why are you solicitous? Consider the lilies of the field, how they grow: they labour not, neither do they spin. But I say to you, that not even Solomon in all his glory was arrayed as one of these."
+Matthew 6:26-29
 
 I am disappointed to say that it the Army Corps of Engineers back at it again. In response to the catastrophic flooding caused by the [almost 50 inches of rain](https://www.climate.gov/news-features/event-tracker/reviewing-hurricane-harveys-catastrophic-rain-and-flooding) (!!!) that Hurricane Harvey dumped on the Houston area over four days in late August of 2017, the agency has put out an [interim report](https://www.swg.usace.army.mil/Missions/Projects/BBTRS/) outlining their proposal to mitigate future mass flooding scenarios in the Buffalo Bayou watershed. [Buffalo Bayou](https://buffalobayou.org/) is the principal river in the Greater Houston region. It's headwaters are located 53 miles west of the Gulf Coast in Katy and it stretches eastwards through the city of Houston eventually ending up in the Houston Ship Channel.
 
