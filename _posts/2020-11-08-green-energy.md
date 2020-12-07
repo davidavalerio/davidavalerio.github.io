@@ -5,7 +5,7 @@ title: Green Energy Isn't Green
 subtitle: Something more radical must be done.
 bigimg: /img/wind.jpg
 ---
-"Enter ye in at the narrow gate: for wide is the gate, and broad is the way that leadeth to destruction, and many there are who go in thereat. How narrow is the gate, and strait is the way that leadeth to life: and few there are that find it!" Matthew 7:13-14 
+>"Enter ye in at the narrow gate: for wide is the gate, and broad is the way that leadeth to destruction, and many there are who go in thereat. How narrow is the gate, and strait is the way that leadeth to life: and few there are that find it!" Matthew 7:13-14 
 
 If the way out of the climate crisis is our vision of what a "green" energy transition looks like, then I am not interested in seeing it come to fruition. Moving our energy systems from oil and gas to solar and wind does not address the fundamental problem poisoning our relationship with Earth, humanity's need to exploit the natural world around us to our own ends. Oil and gas extraction is environmentally devastating. Mining to support "renewable" energy sources is no different. Solar panels and windmills need the metals and raw aggregates that can only come from the bowels of the Earth. In fact, the depressingly small energy density of these power sources means that [huge tracts of the planet](https://www.axionpower.com/knowledge/power-world-with-solar/) would have to be set aside for energy production. 
 
