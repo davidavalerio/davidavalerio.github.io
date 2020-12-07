@@ -27,6 +27,6 @@ These are but the smallest glimpses of who my grandmother was. I can't convey he
 
 I feel her with me in spirit, and will carry her in my heart until the day that we see each other again. I would appreciate any and all prayers for the soul of my dearly departed grandmother, and for our family as we mourn and celebrate her life and ascension into Heaven. May God give her rest.
 
->"And God shall wipe away all tears from their eyes: and death shall be no more, nor mourning, nor crying, nor sorrow shall be any more, for the former things are >passed away." Revelation 21:4
+>"And God shall wipe away all tears from their eyes: and death shall be no more, nor mourning, nor crying, nor sorrow shall be any more, for the former things are passed away." Revelation 21:4
 
 ![My Grandma and me when I received my Aggie Ring a few years ago.](/img/grandmame.jpg)
