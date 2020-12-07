@@ -5,8 +5,8 @@ title: Tolstoyan Complexity
 subtitle: On the inexplicability of history.
 bigimg: /img/yasnaya.jpg
 ---
->"All these things Jesus spoke in parables to the multitudes: and without parables he did not speak to them. That it might be fulfilled which was spoken by the >prophet, saying: I will open my mouth in parables, I will utter things hidden from the foundation of the world."
->Matthew 13:34-35
+>"All these things Jesus spoke in parables to the multitudes: and without parables he did not speak to them. That it might be fulfilled which was spoken by the prophet, saying: I will open my mouth in parables, I will utter things hidden from the foundation of the world."
+Matthew 13:34-35
 
 I am a Tolstoy fanboy, as many of you know. I first began reading him a couple of years ago as I was finding my way back to God. I read his brilliant manifesto, [The Kingdom of God is Within You](https://www.amazon.com/Kingdom-God-Within-You/dp/1537188488), when I was camping in the mountains of Southwestern Montana for my geology field camp. The book was a revelation to me. I soon devoured others of his religious, philosophical, and political writings such as [My Religion: What I Believe](https://bookshop.org/books/my-religion-what-i-believe-9781907355233/9781907355233), [A Confession and Other Religious Writings](https://bookshop.org/books/192504/9780140444735), and [The Slavery of Our Times](https://theanarchistlibrary.org/library/leo-tolstoy-the-slavery-of-our-times). Tolstoy's take on the Gospel teachings can be summarized  as the following: Jesus' commandments should be taken seriously and literally. He spoke in parables for a reason, so that the common folk could understand him and apply the lessons he gave in their everyday life. The Sermon on the Mount is the rock on which he founds his faith. Taking the strictures laid out in this homily seriously, he advocated a strict pacifism, rejected the state as being immoral, disavowed establish churches as perversions of Jesus' teachings, and advocated for an ever-abiding love for fellow men. 
 
