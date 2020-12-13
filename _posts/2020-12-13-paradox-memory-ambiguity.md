@@ -2,8 +2,8 @@
 layout: post
 published: true
 title: Paradox, Memory, Ambiguity
-subtitle: Love for the contradictory
-bigimg: /img/tesselation.jpg
+subtitle: Love for the antipodal.
+bigimg: /img/tesselation.jpeg
 ---
 >"You are the light of the world. A city seated on a mountain cannot be hid. Neither do men light a candle and put it under a bushel, but upon a candlestick, that it may shine to all that are in the house. So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven." Matthew 5:14-16
 
