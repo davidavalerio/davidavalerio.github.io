@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Through A Map's Eyes
 subtitle: On the philosophy of cartography.
 bigimg: /img/map.jpeg
